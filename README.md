@@ -1,1 +1,1 @@
-# -Medical-Insurance-Cost-Prediction-using-Machine-Learning
+This project provides a comprehensive analysis of insurance data, offering insights into factors affecting insurance charges and demonstrating the utility of machine learning models in predicting these charges based on individual attributes.
